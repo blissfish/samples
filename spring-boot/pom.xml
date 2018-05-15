@@ -34,7 +34,6 @@
 	
 	<modules>
 		<module>hello-world</module>
-		<module>kafka-streams</module>
 		<module>circuit-breaker</module>
 	</modules>
 </project>

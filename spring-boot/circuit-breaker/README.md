@@ -21,6 +21,6 @@ This time, as per annotation `@HystrixCommand(fallbackMethod = "fallback")`, the
 
 From here you may go to:
 * https://github.com/Netflix/Hystrix
-* https://github.com/Netflix/Hystrix
+* https://github.com/Netflix/Hystrix/tree/master/hystrix-contrib/hystrix-javanica/src/main/java/com/netflix/hystrix/contrib/javanica/annotation
 
 

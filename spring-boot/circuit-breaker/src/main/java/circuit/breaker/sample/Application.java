@@ -28,7 +28,7 @@ public class Application {
 	}
 
 	@GetMapping(value = "/api")
-	public String toRead() {
+	public String toRead() {		
 		String result = service.api();
 		log.info(result);
 		return result;

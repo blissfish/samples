@@ -20,7 +20,7 @@ This time, as per annotation `@HystrixCommand(fallbackMethod = "fallback")`, the
 `Hello World Fallback!`
 
 From here you may go to:
-* `https://github.com/Netflix/Hystrix`
+* https://github.com/Netflix/Hystrix
 * https://github.com/Netflix/Hystrix
 
 

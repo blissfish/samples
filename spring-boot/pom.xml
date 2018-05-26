@@ -36,5 +36,7 @@
 		<module>hello-world</module>
 		<module>circuit-breaker</module>
 		<module>hazelcast-session-sample</module>
+		<module>data-factory-service</module>
+		<module>web-socket-sample</module>
 	</modules>
 </project>

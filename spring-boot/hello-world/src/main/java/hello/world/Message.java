@@ -42,7 +42,7 @@ public class Message {
 	}
 
 	public String toString() {
-		return "{\"id \":" + id + ",\"content\":\"" + message + "\",\"version\":\"" + version + "\",\"hostName\":\""
+		return "{\"id \":" + id + ",\"message\":\"" + message + "\",\"version\":\"" + version + "\",\"hostName\":\""
 				+ hostname + "\"}\"";
 	}
 

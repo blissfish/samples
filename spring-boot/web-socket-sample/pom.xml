@@ -8,6 +8,9 @@
 	</parent>
 	<artifactId>web-socket-sample</artifactId>
 
+<properties>
+   <docker.image.prefix>wingtiptoysregistry.azurecr.io</docker.image.prefix>
+</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
